@@ -11,7 +11,16 @@
         sudo apt install python3-serial
         pip3 install matplotlib
         pip3 install drawnow
- 
+
+## Instalación de PyGame Zero
+
+https://pygame-zero.readthedocs.io/en/stable/installation.html
+
+```
+pip install pgzero
+```
+
+
  
  ## Recursos 
  
