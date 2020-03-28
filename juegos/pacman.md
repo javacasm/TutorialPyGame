@@ -1,5 +1,7 @@
 ## PacMan
 
+[Pacman en python (TheMagPi 76)](https://magpi.raspberrypi.org/articles/code-pac-man-in-python) [código](https://github.com/TechnoVisual/Pygame-Zero/tree/master/pacman2)
+
 https://www.pygame.org/project-Pacman-426-4585.html
 
 
