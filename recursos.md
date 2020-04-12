@@ -5,6 +5,44 @@
 [Codigo del libro de Apress: python-pygame-raspberry-pi-game-dev ](https://github.com/Apress/python-pygame-raspberry-pi-game-dev)
 [Juegos historicos para MSDOS](https://archive.org/details/softwarelibrary_msdos_games?and%5B%5D=emulator_start%3A*iafix*+prince&sin=&sort=titleSorter)
 
+[Pygame tutorials](https://lorenzod8n.wordpress.com/category/pygame-tutorial/)
+
+[Pygame examples](https://pygame-zero.readthedocs.io/en/latest/examples.html)
+
+## pygame Zero
+
+
+
+[Pygame Zero](https://github.com/lordmauve/pgzero)
+
+
+[Documentaci'on](https://pygame-zero.readthedocs.io/en/stable/
+
+[Introduccion](https://pygame-zero.readthedocs.io/en/latest/introduction.html)
+
+### Sonidos
+
+[sonidos en python](https://pybonacci.org/2020/04/01/haciendo-musica-con-python/)
+
+
+### Sonidos 8 bits
+
+
+[Sonido de 8 bits en pygame](https://flothesof.github.io/gameboy-sounds-in-python.html)
+
+[Avengers 8bits](https://www.youtube.com/watch?v=Aw4I6sJ7F18)
+
+[AVengers piano](https://www.youtube.com/watch?v=UAm0aWvzFI8)
+
+
+[Pygame sonido 8 bits](https://www.google.com/search?q=pygame+music+8+bits&oq=pygame+music+8+bits&aqs=chrome..69i57.4748j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8)
+
+### 8 bits
+
+[avengers](https://www.youtube.com/watch?time_continue=157&v=P-5c5ct1FfM&feature=emb_logo)
+
+[Peliculas 8 bits](https://magnet.xataka.com/why-so-serious/transformar-peliculas-en-maravillosos-juegos-de-8-bits-es-pura-nostalgia-friki)
+
 ### Prince of Persia
 
 [Prince of Persia jugable (MSDOS)](https://archive.org/details/msdos_Prince_of_Persia_1990)
