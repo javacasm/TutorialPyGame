@@ -1,5 +1,6 @@
 ## pyGame Of Life
 
+"Programando el juego de la vida en 10 minutos" https://www.youtube.com/watch?v=qPtKv9fSHZY by .dotCSV
 
 Instalamos pygame (librería para crear juegos)
 
