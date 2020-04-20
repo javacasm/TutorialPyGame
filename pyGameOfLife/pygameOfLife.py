@@ -44,9 +44,9 @@ gameState[20, 23] = 1
 
 pauseExect = False
 
-
+bRunning = True
 # Bucle de ejecución
-while True:
+while bRunning:
 
     newGameState = np.copy(gameState)
 
@@ -58,13 +58,19 @@ while True:
     for event in ev:
         # Detectamos si se presiona una tecla
         if event.type == pygame.KEYDOWN:
-            pauseExect = not pauseExect  # Invertimos el estado
+            if event.key == pygame.K_q:
+                bRunning = False
+            else:
+                pauseExect = not pauseExect  # Invertimos el estado
+
+        if event.type == pygame.QUIT:
+            bRunning = False
 
         mouseClick = pygame.mouse.get_pressed()
         if sum(mouseClick) > 0 : # Algún botón está pulsado
             posX, posY = pygame.mouse.get_pos()
             celX, celY = int(np.floor(posX / dimCW)) , int(np.floor(posY / dimCH))
-            newGameState[celX, celY] = not mouseClick[2]
+            newGameState[celX, celY] = not newGameState[celX, celY] 
 
     # Vamos a dibujar el estado de la rejilla
     for y in range(0, nyC):
