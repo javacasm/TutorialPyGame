@@ -1,6 +1,6 @@
 
 # pyGame of Life
-# Siguiendo tutorial de .dotcsv 
+# Siguiendo tutorial de .dotcsv  https://www.youtube.com/watch?v=qPtKv9fSHZY
 
 import pygame  
 # Lo usamos para dibujar en pantalla
