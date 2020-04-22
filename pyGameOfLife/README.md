@@ -34,3 +34,16 @@ Collecting numpy
 Installing collected packages: numpy
 Successfully installed numpy-1.18.3
 ```
+
+
+
+## Recursos
+
+Otros ejemplos:
+
+[otro pygame](https://gist.github.com/bennuttall/6952575)
+
+[Juego de la vida con Arduino](https://hackaday.io/project/2159-the-tinusaur-plays-conways-game-of-life/details)
+
+
+[Versión para micro:bit](https://www.hackster.io/ivo-ruaro/conway-s-game-of-life-e383e3)
