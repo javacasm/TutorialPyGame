@@ -18,6 +18,14 @@
 
 [SpaceWar python2](https://github.com/kanaka/spacewar)
 
+[breakout con pygame](https://www.101computing.net/breakout-tutorial-using-pygame-getting-started/)
+
+[pong con pygame](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
+
+[sencilllo conduciendo coches con pygame](https://www.101computing.net/getting-started-with-pygame/)
+
+[computational features of video games](https://www.101computing.net/computational-features-of-video-games/)
+
 TODO:
 
 https://github.com/Wireframe-Magazine
