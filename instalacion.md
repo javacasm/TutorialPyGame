@@ -19,8 +19,6 @@ https://pygame-zero.readthedocs.io/en/stable/installation.html
 ```
 pip install pgzero
 ```
-
-
  
  ## Recursos 
  
