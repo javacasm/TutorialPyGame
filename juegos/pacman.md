@@ -13,3 +13,7 @@ https://www.pygame.org/tags/pacman
 
 
 [Tutorial magPi 76](https://magpi.raspberrypi.org/articles/code-pac-man-in-python)
+
+Algoritmo de los fantasmas https://www.101computing.net/pacman-ghost-algorithm/
+
+Scratch: https://scratch.mit.edu/projects/390606679/
