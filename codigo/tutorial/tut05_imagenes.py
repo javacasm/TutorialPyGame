@@ -6,6 +6,10 @@ Tutorial básico de pyGame
 * Cargamos la imagen que genera una superfice pygame.image.load('./images/python-logo.png') devuelve una surface, necesita el path completo
 * Hacemos blit a nuestra superficie
 
+
+x_img = pg.image.load("./images/X_modified-100x100.png") 
+Podemos reescalar imagenes con x_img = pg.transform.scale(x_img, (newWidth, newHeight)) 
+
 Docs: https://www.pygame.org/docs/ref/image.html
 
 
