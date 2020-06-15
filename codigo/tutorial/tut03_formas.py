@@ -1,3 +1,22 @@
+"""
+Tutorial básico de pyGame
+
+03 - Formas, líneas y polígonos
+
+* draw.----(surface, color, parámetros)
+    * Rectángulo: draw.rect(screen,color,(x,y,w,h))
+    * Círculo: draw.circle(screen,color,(centerX, centerY), radio)
+    * Línea: draw.line(screen,color, (x1,y1), (x2,y2), grosor)
+    * Polígono: draw.polygon(screen,color,((x1,y1), (x2,y2), ....))
+* Rect: tiene una propiedad center que podemos usar para centrar en pantalla
+
+Docs sobre draw https://www.pygame.org/docs/ref/draw.html
+
+CC by SA @javacasm
+Junio 2020
+
+"""
+
 import pygame
 
 width = 800
@@ -6,11 +25,13 @@ height = 400
 
 # 3 formas de definir los colores
 red = pygame.Color('Red')
-agua = pygame.Color('Aqua')
+cyan = pygame.Color('cyan')
 blue = pygame.Color(0,0,255) # ¿alpha?
 green = (0,  255, 0)
 white = (255,255,255)
 black = (0,0,0)
+
+pygame.init() # Inicializa el entorno de pygame
 
 screen = pygame.display.set_mode((width, height))
 
@@ -27,7 +48,7 @@ while running:
 
     pygame.draw.circle(screen, white, (400,300),100) # (centerX, centerY), radio
 
-    pygame.draw.line(screen, black,(287,95),(595,255),5) # (x1,y1), (x2,y2)
+    pygame.draw.line(screen, black,(287,95),(595,255),5) # (x1,y1), (x2,y2), grosor
 
     pygame.draw.polygon(screen, blue,(
                 (500,200),
