@@ -9,6 +9,8 @@ miSuperfice = Surface((width, height))
 
 surface.blit(miSuperficie, (xDestino, yDestino))
 
+Podemos usar transparencias surface = pygame.Surface((100, 100), pygame.SRCALPHA)
+
 Docs: https://www.pygame.org/docs/ref/surface.html
 
 
