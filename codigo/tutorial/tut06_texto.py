@@ -50,6 +50,7 @@ for font in pygame.font.get_fonts():
 
 
 sysFont = pygame.sysfont.SysFont('freemono',20,bold = True)
+miFont = pygame.font.Font('./fonts/Gamer.ttf',100)
 
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Ejemplo Texto y fonts')
@@ -64,10 +65,17 @@ while running:
     screen.fill(cyan) # copia screen en la pantalla
 
     textSurface = sysFont.render('Una prueba', True, black)
+    text2Surface = miFont.render('MiFont',True,blue)
+    
     rect = textSurface.get_rect()
     rect.center = (width//2, height//2)
 
     screen.blit(textSurface, rect)
+
+    rect2 = text2Surface.get_rect()
+    rect2.center = (width//2, height//2 + 100)
+
+    screen.blit(text2Surface, rect2)
 
     pygame.display.flip()  # 
     
