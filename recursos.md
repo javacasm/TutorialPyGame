@@ -2,6 +2,11 @@
 
 [Pygame-Zero Tutorial code for Pygame Zero](https://github.com/TechnoVisual/Pygame-Zero)
 
+[Tutorial pygame](https://www.geeksforgeeks.org/introduction-to-pygame/)
+
+
+[Pygame Tutorial](https://nerdparadise.com/programming/pygame)
+
 [Codigo del libro de Apress: python-pygame-raspberry-pi-game-dev ](https://github.com/Apress/python-pygame-raspberry-pi-game-dev)
 [Juegos historicos para MSDOS](https://archive.org/details/softwarelibrary_msdos_games?and%5B%5D=emulator_start%3A*iafix*+prince&sin=&sort=titleSorter)
 
