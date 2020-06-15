@@ -6,11 +6,15 @@ height = 400
 
 # 3 formas de definir los colores
 red = pygame.Color('Red')
+agua = pygame.Color('Aqua')
 blue = pygame.Color(0,0,255) # ¿alpha?
 green = (0,  255, 0)
+white = (255,255,255)
+black = (0,0,0)
 
 
 screen = pygame.display.set_mode((width, height))
+pygame.display.set_caption('Ejemplo colores')
 
 running = True
 
