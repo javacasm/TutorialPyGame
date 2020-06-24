@@ -11,11 +11,24 @@ Tutorial básico de pyGame
 * plpygame.mixer.music.ay.unpause()  # continua
 * play.rewind()  # reinicia
 * play.fadeout( milisegundos hasta apagarse) # apaga poco a poco
+* Podemos crear un evento para cuando termine la musica con
+
+    pygame.mixer.music.set_endevent(SONG_END)
+    ...
+    while True:
+        ...
+        for event in pygame.event.get():
+            ...
+            if event.type == SONG_END:
+                print("the song ended!")
 
 
 Docs sobre mixer.music: https://www.pygame.org/docs/ref/music.html
 
 mp3: fortunate note from Youtube free music library
+
+TODO: implementar un mp3-player
+
 
 CC by SA @javacasm
 Junio 2020

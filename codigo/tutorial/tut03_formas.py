@@ -2,10 +2,10 @@
 Tutorial básico de pyGame
 
 03 - Formas, líneas y polígonos
-
+* TODO: coordenadas
 * draw.----(surface, color, parámetros)
-    * Rectángulo: draw.rect(screen,color,(x,y,w,h))
-    * Círculo: draw.circle(screen,color,(centerX, centerY), radio)
+    * Rectángulo: draw.rect(screen,color,(x,y,w,h)) con opción de dar grosor
+    * Círculo: draw.circle(screen,color,(centerX, centerY), radio) con opción de dar grosor
     * Línea: draw.line(screen,color, (x1,y1), (x2,y2), grosor)
     * Polígono: draw.polygon(screen,color,((x1,y1), (x2,y2), ....))
 * Rect: tiene una propiedad center que podemos usar para centrar en pantalla
