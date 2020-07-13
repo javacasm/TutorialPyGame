@@ -10,6 +10,26 @@ Se le denomina SpriteSheet
 
 
 ![](./spriteSheets/terrex_0.png)
+
+
+### Ejemplos de M.Nishimura @hectNishi
+
+
+![](./spriteSheets/EBmnA7bVAAAKt7c.png)
+
+![](./spriteSheets/EaPNhIFUMAIKoDo.png)
+
+![](./spriteSheets/EXj-T-rVcAMjZmB.png)
+
+![](./spriteSheets/EUDgh7jUYAAqrl7.png)
+
+![](./spriteSheets/EU5Kqj6UcAEFu8V.png)
+
+
+[Ejemplo de animación](https://twitter.com/hectNishi/status/1257754099266629632)
+
+[Gif simple de ejemplo](https://twitter.com/hectNishi/status/1264341827416518656)
+
 ### Recursos
 
 [Clase para manejar SpriteSheet](https://www.pygame.org/wiki/Spritesheet)
