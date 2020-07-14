@@ -24,7 +24,7 @@ Se le denomina SpriteSheet
 ![](./spriteSheets/EUDgh7jUYAAqrl7.png)
 
 ![](./spriteSheets/EU5Kqj6UcAEFu8V.png)
-
+[Ejemplo](https://video.twimg.com/tweet_video/EcyjWy8VcAANPkv.mp4)
 
 [Ejemplo de animación](https://twitter.com/hectNishi/status/1257754099266629632)
 
