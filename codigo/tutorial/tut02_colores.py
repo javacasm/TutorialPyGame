@@ -47,7 +47,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False 
     
-    screen.fill(green) # copia screen en la pantalla
+    screen.fill(green) # rellenamos la pantalla de verde
 
-    pygame.display.flip()  # 
+    pygame.display.flip()  # actualizamos la pantalla
     
