@@ -1,5 +1,11 @@
 ## Recursos
 
+[pyGame tutorials for kids](http://kidscancode.org/lessons/)
+
+[Getting started with pyGame](https://www.101computing.net/getting-started-with-pygame/)
+
+[Ejemplos de juegos con pyGame](http://programarcadegames.com/index.php?chapter=example_code)
+
 [Pygame-Zero Tutorial code for Pygame Zero](https://github.com/TechnoVisual/Pygame-Zero)
 
 [Tutorial pygame](https://www.geeksforgeeks.org/introduction-to-pygame/)
