@@ -17,3 +17,5 @@ https://www.pygame.org/tags/pacman
 Algoritmo de los fantasmas https://www.101computing.net/pacman-ghost-algorithm/
 
 Scratch: https://scratch.mit.edu/projects/390606679/
+
+[Pacman using turtle](http://www.grantjenks.com/docs/freegames/pacman.html)
