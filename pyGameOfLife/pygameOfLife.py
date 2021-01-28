@@ -7,7 +7,7 @@ import pygame
 import numpy as np
 # Lo utilizamos para manejar matrices fácilmente
 import time
-
+import random
 
 pygame.init()
 
@@ -60,6 +60,9 @@ while bRunning:
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_q:
                 bRunning = False
+            elif event.key == pygame.K_r:  # Rellenamos 500 puntos aleatorios
+                for i in range(0,500):
+                    gameState[random.randint(0,nxC-1),random.randint(0,nyC-1)] = 1
             else:
                 pauseExect = not pauseExect  # Invertimos el estado
 

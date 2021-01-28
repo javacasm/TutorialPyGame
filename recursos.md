@@ -1,5 +1,7 @@
 ## Recursos
 
+[pygame from realpython](https://realpython.com/pygame-a-primer/)
+
 [pyGame tutorials for kids](http://kidscancode.org/lessons/)
 
 [Getting started with pyGame](https://www.101computing.net/getting-started-with-pygame/)

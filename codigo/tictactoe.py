@@ -52,7 +52,7 @@ screen = pg.display.set_mode((width, height + 100), 0, 32)
 
 # setting up a nametag for the 
 # game window 
-pg.display.set_caption("My Tic Tac Toe") 
+pg.display.set_caption("Tic Tac Toe con pyGame") 
 
 # loading the images as python object 
 initiating_window = pg.image.load("images/modified_cover-100x100.png") 
@@ -90,11 +90,11 @@ def draw_status():
 	global draw 
 	
 	if winner is None: 
-		message = XO.upper() + "'s Turn"
+		message = " Turno de " + XO.upper() 
 	else: 
-		message = winner.upper() + " won !"
+		message = "¡Gana " + winner.upper() + "!"
 	if draw: 
-		message = "Game Draw !"
+		message = "Dibujo"
 
 	# setting a font object 
 	font = pg.font.Font(None, 30) 
