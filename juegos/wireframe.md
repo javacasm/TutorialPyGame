@@ -65,3 +65,8 @@
 [lunar lander wf37](https://www.raspberrypi.org/blog/code-a-homage-to-lunar-lander-wireframe-37/) [github](https://github.com/Wireframe-Magazine/Wireframe-37/tree/master/source-code-lunar-lander)
 
 [Robotron wf38](https://www.raspberrypi.org/blog/code-robotron-2084s-twin-stick-action-wireframe-38/) [github](https://github.com/Wireframe-Magazine/Wireframe-38/tree/master/source-code)
+
+
+[Tron light cycles wf47](https://github.com/Wireframe-Magazine/Wireframe-47/tree/main/tron-light-cycles)
+
+[Pitfall! (salto lianas) wf48](https://github.com/Wireframe-Magazine/Wireframe-48/tree/main/source-code-pitfall)
