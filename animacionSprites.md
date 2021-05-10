@@ -11,6 +11,10 @@ Se le denomina SpriteSheet
 
 ![](./spriteSheets/terrex_0.png)
 
+### Ejemplo
+
+[ejemplo](https://github.com/ihalseide/Galaga/blob/master/source/sprites.py)
+
 
 ### Ejemplos de M.Nishimura @hectNishi
 
@@ -29,6 +33,15 @@ Se le denomina SpriteSheet
 [Ejemplo de animación](https://twitter.com/hectNishi/status/1257754099266629632)
 
 [Gif simple de ejemplo](https://twitter.com/hectNishi/status/1264341827416518656)
+
+
+### Supermario
+
+![](./images/supermario1.png)
+
+![](./images/supermario2.png)
+
+![](./images/supermario3.png)
 
 ### Recursos
 
